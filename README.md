@@ -2,4 +2,4 @@
 ![Audi car](./TensorFlow.png)
 **I use the linear function** ``f(x) = x*2 + 10`` **linear regression with tensorflow**
 
-![Audi car](./Untitled.png)
+![Audi car](./Untitled_1.png)
